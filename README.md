@@ -49,7 +49,7 @@ Clone the repository:
 
 bash
 
-git clone https://github.com/your-username/MathMobile.git
+git clone https://github.com/FrostyTheDev010/MathMobile.git
 cd MathMobile
 
 Install the required dependencies:
