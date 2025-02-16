@@ -1,5 +1,5 @@
 Mathica - A Mathematical Toolkit App
-Mathcia is a mobile application built using Python and the Kivy framework. It provides a suite of mathematical tools, including number analysis, two-number relationships, a calculator, and an equation solver. This app is designed to be lightweight, easy to use, and perfect for students, educators, and anyone who loves math!
+Mathica is a mobile application built using Python and the Kivy framework. It provides a suite of mathematical tools, including number analysis, two-number relationships, a calculator, and an equation solver. This app is designed to be lightweight, easy to use, and perfect for students, educators, and anyone who loves math!
 
 Features
 1. Number Properties
@@ -49,7 +49,7 @@ Clone the repository:
 
 bash
 
-git clone https://github.com/FrostyTheDev010/MathMobile.git
+git clone https://github.com/FrostyTheDev010/Mathica.git
 cd MathMobile
 
 Install the required dependencies:
